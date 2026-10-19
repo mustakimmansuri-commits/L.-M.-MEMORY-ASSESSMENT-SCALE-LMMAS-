@@ -1,8 +1,29 @@
-# L.-M.-MEMORY-ASSESSMENT-SCALE-LMMAS-
-The L. M. Memory Assessment Scale (LMMAS) is a comprehensive, browser-based cognitive evaluation tool engineered with integrated voice recognition and automated multi-domain scoring.
-**About Us**
-The L. M. Memory Assessment Scale (LMMAS) platform is developed and maintained at L. M. College of Pharmacy (LMCP), Ahmedabad, with the mission of providing an accessible, scientifically validated, and automated digital screening instrument to evaluate cognitive performance across clinical and academic settings.
+# L. M. Memory Assessment Scale (LMMAS)
 
-The scale was originally developed as a paper-based project in April 2025 by Honey Patel (Pharm.D), Khushi Prajapati (Pharm.D), and Pooja Mamnani (Pharm.D PB), under the guidance of Dr. Mustakim M. Mansuri (M.Pharm, PhD), Associate Professor at L. M. College of Pharmacy, with expert advice and valuable inputs from clinical psychologist Ms. Shubhanginidevi Jhala, MPhil (NIMHANS).
+## 🌐 Live Portal
+Access the interactive web platform here: **[LMMAS Assessment Portal](https://lmcp.ac.in/wp-content/uploads/lmmas/)**
 
-As part of a digital transformation initiative, the scale has now been adapted into a digital platform to overcome limitations related to time, space, location, and variability in administration.
+---
+
+## 📌 Project Overview
+The **L. M. Memory Assessment Scale (LMMAS)** is a browser-based cognitive evaluation tool featuring voice recognition and multi-domain scoring, developed at the **L. M. College of Pharmacy (LMCP)** in Ahmedabad.
+
+---
+
+## 🚀 Key Features & Architecture
+* **Multi-Domain Evaluation:** Assesses attention, verbal recall, working memory, spatial recognition, and executive function across tasks like verbal recall, sentence repetition, and the Stroop Interference Task.
+* **Integrated Speech Recognition:** Utilizes real-time browser microphone tracking for verbal responses.
+* **Automated Scoring:** Generates tiered performance reports with dynamic time tracking.
+
+---
+
+## 👩‍🔬 Research & Development Credits
+Conceptualized in **April 2025**:
+* **Development Team:** Honey Patel (Pharm.D), Khushi Prajapati (Pharm.D), and Pooja Mamnani (Pharm.D PB).
+* **Project Director & Guide:** Dr. Mustakim M. Mansuri (M.Pharm, PhD), Associate Professor, LMCP.
+* **Clinical Consultant:** Ms. Shubhanginidevi Jhala, MPhil (NIMHANS), Clinical Psychologist.
+
+---
+
+## ⚙️ Technical Requirements & Disclaimer
+Built using HTML5, CSS3, Vanilla JavaScript, and the Web Speech API (requires microphone permissions). This tool is for initial cognitive baseline evaluations only and does not constitute a formal medical diagnosis.
