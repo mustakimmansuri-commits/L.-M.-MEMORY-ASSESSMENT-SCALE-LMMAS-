@@ -1,4 +1,5 @@
-# L. M. Memory Assessment Scale (LMMAS)
+# LMCP memory assessment scale
+L. M. Memory Assessment Scale (LMMAS)
 
 ## 🌐 Live Portal
 Access the interactive web platform here: **[LMMAS Assessment Portal](https://lmcp.ac.in/wp-content/uploads/lmmas/)** 
